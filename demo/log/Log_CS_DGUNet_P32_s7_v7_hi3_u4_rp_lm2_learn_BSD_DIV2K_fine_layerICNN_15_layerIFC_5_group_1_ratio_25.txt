@@ -1,0 +1,1 @@
+[Epoch: 01/02 Step: 7480/7500] Total Loss: 0.0043[Epoch: 02/02 Step: 7480/7500] Total Loss: 0.0031
